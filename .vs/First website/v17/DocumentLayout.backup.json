@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAC1B22D-8C41-4390-A399-42DA93F6D121}|First website.csproj|e:\\web development\\projects\\first website\\first website\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FAC1B22D-8C41-4390-A399-42DA93F6D121}|First website.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAC1B22D-8C41-4390-A399-42DA93F6D121}|First website.csproj|e:\\web development\\projects\\first website\\first website\\frontend\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FAC1B22D-8C41-4390-A399-42DA93F6D121}|First website.csproj|solutionrelative:frontend\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T19:52:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T19:21:27.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T19:21:27.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-15T19:19:07.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T19:19:07.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "app.js",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Frontend\\app.js",
               "RelativeDocumentMoniker": "Frontend\\app.js",
@@ -85,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "admin.html",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Frontend\\admin.html",
               "RelativeDocumentMoniker": "Frontend\\admin.html",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "Frontend\\admin.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-15T19:18:20.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T19:18:20.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Frontend\\index.html",
               "RelativeDocumentMoniker": "Frontend\\index.html",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "Frontend\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-15T19:17:58.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T19:17:58.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Backend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Backend\\Data\\AppDbContext.cs",
@@ -119,12 +132,11 @@
               "RelativeToolTip": "Backend\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T19:17:21.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T19:17:21.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MyClass.cs",
               "DocumentMoniker": "E:\\WEB DEVELOPMENT\\Projects\\First Website\\First website\\Backend\\Models\\MyClass.cs",
               "RelativeDocumentMoniker": "Backend\\Models\\MyClass.cs",
@@ -132,8 +144,7 @@
               "RelativeToolTip": "Backend\\Models\\MyClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T19:16:39.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T19:16:39.717Z"
             }
           ]
         }
